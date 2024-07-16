@@ -18,7 +18,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp">
+    <ClCompile Include="main(2).cpp">
+      <Filter>Test</Filter>
+    </ClCompile>
+    <ClCompile Include="main(1).cpp">
       <Filter>Test</Filter>
     </ClCompile>
   </ItemGroup>
